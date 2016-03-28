@@ -17,4 +17,4 @@ sudo checkinstall -D \
                   --maintainer "tom_stoeveken@users.sourceforge.net" \
                   --requires "libjpeg62" \
                   --nodoc \
-                    make DESTDIR=/usr install
+                    make install
